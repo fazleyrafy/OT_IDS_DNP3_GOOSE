@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+IAS/
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+Thumbs.db
+~$*
+*.dtmp
+# Large generated artifacts (regenerate with: python src/run_all.py). Remove these lines to commit them.
+# data/processed/sequences/
+# models/
+# results/
